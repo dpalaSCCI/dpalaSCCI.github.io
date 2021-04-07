@@ -1,0 +1,82 @@
+[
+    {
+        "airplane": "A-10 Warthog",
+        "altitude": 8552.57,
+        "id": 1,
+        "latitude": 30.0711,
+        "longitude": -97.4553,
+        "status": "inactive"
+    },
+    {
+        "airplane": "B-1 Bomber",
+        "altitude": 5360.31,
+        "id": 2,
+        "latitude": 30.1301,
+        "longitude": -97.9387,
+        "status": "active"
+    },
+    {
+        "airplane": "AH-64 Attack Helicopter",
+        "altitude": 223.5,
+        "id": 3,
+        "latitude": 30.9178,
+        "longitude": -97.4973,
+        "status": "active"
+    },
+    {
+        "airplane": "A-10 Warthog",
+        "altitude": 7036.2,
+        "id": 4,
+        "latitude": 30.0432,
+        "longitude": -97.9202,
+        "status": "active"
+    },
+    {
+        "airplane": "B-1 Bomber",
+        "altitude": 10608.97,
+        "id": 5,
+        "latitude": 30.796,
+        "longitude": -97.7824,
+        "status": "active"
+    },
+    {
+        "airplane": "A-10 Warthog",
+        "altitude": 7080.65,
+        "id": 6,
+        "latitude": 30.2642,
+        "longitude": -97.6668,
+        "status": "active"
+    },
+    {
+        "airplane": "B-1 Bomber",
+        "altitude": 8315.34,
+        "id": 7,
+        "latitude": 30.3443,
+        "longitude": -97.0883,
+        "status": "active"
+    },
+    {
+        "airplane": "AH-64 Attack Helicopter",
+        "altitude": 425.79,
+        "id": 8,
+        "latitude": 30.5959,
+        "longitude": -97.8925,
+        "status": "active"
+    },
+    {
+        "airplane": "B-1 Bomber",
+        "altitude": 1056.81,
+        "id": 9,
+        "latitude": 30.9051,
+        "longitude": -97.2761,
+        "status": "inactive"
+    },
+    {
+        "airplane": "AH-64 Attack Helicopter",
+        "altitude": 928.74,
+        "id": 10,
+        "latitude": 30.4458,
+        "longitude": -97.3712,
+        "status": "inactive"
+    }
+]

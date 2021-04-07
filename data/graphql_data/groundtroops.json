@@ -1,0 +1,38 @@
+[
+    {
+        "latitude": 30.3051,
+        "longitude": -97.8064,
+        "squad": "Delta",
+        "status": "active"
+    },
+    {
+        "latitude": 30.205,
+        "longitude": -97.7379,
+        "squad": "Wolf",
+        "status": "active"
+    },
+    {
+        "latitude": 30.2345,
+        "longitude": -97.7979,
+        "squad": "Easy",
+        "status": "active"
+    },
+    {
+        "latitude": 30.244,
+        "longitude": -97.6579,
+        "squad": "Beta",
+        "status": "active"
+    },
+    {
+        "latitude": 30.293,
+        "longitude": -97.6979,
+        "squad": "Demo",
+        "status": "active"
+    },
+    {
+        "latitude": 31.3051,
+        "longitude": -97.9064,
+        "squad": "Lazy",
+        "status": "inactive"
+    }
+]

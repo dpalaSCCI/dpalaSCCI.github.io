@@ -1,0 +1,32 @@
+[
+    {
+        "latitude": 30.2851,
+        "longitude": -97.7664,
+        "status": "active"
+    },
+    {
+        "latitude": 30.255,
+        "longitude": -97.7079,
+        "status": "active"
+    },
+    {
+        "latitude": 30.2145,
+        "longitude": -97.7279,
+        "status": "active"
+    },
+    {
+        "latitude": 30.224,
+        "longitude": -97.6879,
+        "status": "active"
+    },
+    {
+        "latitude": 30.273,
+        "longitude": -97.6479,
+        "status": "active"
+    },
+    {
+        "latitude": 31.2851,
+        "longitude": -98.7664,
+        "status": "eliminated"
+    }
+]
