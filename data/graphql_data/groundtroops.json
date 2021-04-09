@@ -34,5 +34,11 @@
         "longitude": -97.9064,
         "squad": "Lazy",
         "status": "inactive"
-    }
+    },
+    {
+        "latitude": 30.7051,
+        "longitude": -96.9064,
+        "squad": "Shadow",
+        "status": "active"
+    },
 ]
