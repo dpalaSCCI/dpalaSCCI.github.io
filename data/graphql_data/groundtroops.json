@@ -37,8 +37,20 @@
     },
     {
         "latitude": 30.7051,
-        "longitude": -96.9064,
+        "longitude": -97.3064,
         "squad": "Shadow",
+        "status": "active"
+    },
+    {
+        "latitude": 30.6051,
+        "longitude": -97.4064,
+        "squad": "Bear",
+        "status": "active"
+    },
+    {
+        "latitude": 30.5051,
+        "longitude": -97.4064,
+        "squad": "Dagger",
         "status": "active"
     }
 ]
