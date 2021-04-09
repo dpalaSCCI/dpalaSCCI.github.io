@@ -28,5 +28,25 @@
         "latitude": 31.2851,
         "longitude": -98.7664,
         "status": "eliminated"
+    },
+    {
+        "latitude": 30.6051,
+        "longitude": -97.4064,
+        "status": "active"
+    },
+    {
+        "latitude": 30.6951,
+        "longitude": -97.2964,
+        "status": "active"
+    },
+    {
+        "latitude": 30.4951,
+        "longitude": -97.3964,
+        "status": "active"
+    },
+    {
+        "latitude": 30.4851,
+        "longitude": -97.3964,
+        "status": "active"
     }
 ]
