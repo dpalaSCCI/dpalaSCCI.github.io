@@ -11,6 +11,9 @@
 	"IP-Data": [
 		"Proxy", "TOR", "VPN", "Proxy", "TOR", "VPN", "TOR", "none"
 	],
+	"Security-Protocol": [
+		"Active", "Active", "Active", "Active", "Active", "Active", "Active", "None"
+	],
 	"Source": [
 		11,11,11,11,11,11,11
 	],
